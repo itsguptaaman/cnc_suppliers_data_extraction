@@ -5,12 +5,10 @@ This repository contains data extracted from various sources to support the anal
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)
 - [Data Structure](#data-structure)
-- [Sources](#sources)
 - [Data Preparation](#data-preparation)
 - [Usage](#usage)
 - [Limitations](#limitations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset Overview
 The dataset consists of supplier information relevant to aerospace CNC manufacturing. It was collected to analyze the capabilities of suppliers in this field, including their experience, certifications, and specializations.
